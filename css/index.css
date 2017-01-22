@@ -1,0 +1,34 @@
+body{
+	background-image: url(http://ttt.services/wp-content/uploads/2015/11/hd-wallpapers-web-website-design-5000x2976-wallpaper.jpg);
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	font-size: 50px;
+}
+
+#red {
+	width: 220px;
+	height: 50px;
+	background-color: white;
+	opacity: .5;
+}
+.parallax {
+
+	 /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
